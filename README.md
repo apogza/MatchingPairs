@@ -3,10 +3,10 @@
 This is a small application that is capable of parsing an expression of matching brackets and/or parenthesis
 and tell if the expression is correct. Examples of such expressions are the following:
 
-*()
-*(())
-*([])
-*{[()]}[]
+* ()
+* (())
+* ([])
+* {[()]}[]
 
 ## Implementations
 
